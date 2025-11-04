@@ -36,3 +36,4 @@ Output:
  surgery
  ICU
  emergency
+
