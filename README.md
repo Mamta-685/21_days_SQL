@@ -11,7 +11,7 @@ My daily SQL learning journey and key takeaways.
 
 📣 **Challenge Info**
 - Participating in the [21 Days SQL Challenge](https://www.linkedin.com/company/indian-data-club/)  
-  @indiandataclub  
-  @dpdzero  
-  🏷️ #IDCWithSQL
+- @indiandataclub  
+- @dpdzero  
+- 🏷️ #IDCWithSQL
 
