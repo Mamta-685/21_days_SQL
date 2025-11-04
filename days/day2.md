@@ -4,6 +4,7 @@
 
 ---
 
+
 ## Practice Questions
 
 **1. Find all patients who are older than 60 years.**  
