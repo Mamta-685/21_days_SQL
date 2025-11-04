@@ -11,6 +11,7 @@
 SELECT * FROM patients;
 ```
 
+
 **2. Select only the patient_id, name, and age columns from the patients table.**
 ```sql
 SELECT patient_id AS p_id, name AS p_name, age AS p_age FROM patients;
