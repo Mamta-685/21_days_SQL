@@ -58,6 +58,7 @@ I also realized the importance of choosing the right aggregation function (SUM v
 This practice strengthened my confidence in analyzing data per service or week, which is exactly how real-world SQL queries are used to generate insights.
 
 
+
 @indiandataclub
 @DPDzero
 #IDCWithSQL
