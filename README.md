@@ -11,7 +11,7 @@ My daily SQL learning journey and key takeaways.
 - [Day 7](days/day7.md)
 - [Day 8](days/day8.md)
 - [Day 9](days/day9.md)
-
+- [Day 10](days/day10.md)
 
 
 ---
@@ -20,5 +20,5 @@ My daily SQL learning journey and key takeaways.
 - Participating in the [21 Days SQL Challenge](https://www.linkedin.com/company/indian-data-club/)  
 - @indiandataclub  
 - @dpdzero  
-- 🏷️ #IDCWithSQL
+- #SQLWithIDC
 
