@@ -9,6 +9,7 @@
 SELECT service, COUNT(*) AS service_count 
 FROM patients 
 GROUP BY service;
+
 ```
 
 **2. Calculate the average age of patients grouped by service.**
