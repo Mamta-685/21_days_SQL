@@ -71,6 +71,7 @@ ORDER BY avg_satisfaction DESC;
 
 
 
+
 **Reflection**
 
 Today’s session taught me more than just SQL syntax — it reminded me to slow down and read questions carefully before jumping to write the query.
