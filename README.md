@@ -12,6 +12,7 @@ My daily SQL learning journey and key takeaways.
 - [Day 8](days/day8.md)
 - [Day 9](days/day9.md)
 - [Day 10](days/day10.md)
+- [Day 11](days/day11.md)
 
 
 ---
