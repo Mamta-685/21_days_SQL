@@ -44,6 +44,12 @@ group by event_status
 order by avg_patient_satisfaction desc;
 ```
 
+## output:
+| **event_status** | **week_counts** | **avg_patient_satisfaction** | **avg_staff_morale** |
+|------------------|-----------------|------------------------------|-----------------------|
+| With Event       | 44              | 81.02                        | 70.41                 |
+| No Event         | 164             | 79.73                        | 73.15                 |
+
 ---
 
 
