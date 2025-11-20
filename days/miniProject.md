@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This mini-project focuses on using **SQL** to transform raw sales data for IDC Pizza into actionable business insights. The queries cover fundamentals like filtering and aggregation, as well as advanced topics like various joins and data cleaning.
+This mini-project focuses on using **SQL** to transform raw sales data for IDC Pizza into actionable business insights. The queries cover fundamentals like filtering and aggregation, and joins.
 
 ---
 
