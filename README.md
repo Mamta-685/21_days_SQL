@@ -18,6 +18,7 @@ My daily SQL learning journey and key takeaways.
 - [Day 14](days/day14.md)
 - [Day 15](days/day15.md)
 - [Mini-project(The Great Pizza Analytics Challenge)](days/miniProject.md)
+- [Day 16](days/day16.md)
   
 
 
