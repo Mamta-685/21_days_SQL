@@ -21,6 +21,7 @@ My daily SQL learning journey and key takeaways.
 - [Mini-project](days/miniProject.md) - The Great Pizza Analytics Challenge
 - [Day 16](days/day16.md) -  Subqueries (WHERE clause)
 - [Day 17](days/day17.md) - Subqueries (SELECT and FROM clause)
+- [Day 18](days/day18.md) - UNION and UNION ALL
   
 
 
