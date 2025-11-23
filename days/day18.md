@@ -50,7 +50,9 @@ SELECT name AS full_name FROM patients UNION SELECT staff_name AS full_name FROM
 **Question:
 Create a comprehensive personnel and patient list showing: identifier (patient_id or staff_id), full name, type ('Patient' or 'Staff'), and associated service. Include only those in 'surgery' or 'emergency' services. Order by type, then service, then name.**
 
-```**My Approach..
+```
+*My Approach..
+
 ~ Step 1 — Identify the two tables
 We need both:
             -patients
