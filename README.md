@@ -23,6 +23,7 @@ My daily SQL learning journey and key takeaways.
 - [Day 17](days/day17.md) - Subqueries (SELECT and FROM clause)
 - [Day 18](days/day18.md) - UNION and UNION ALL
 - [Day 19](days/day19.md) - Window Functions - ROW_NUMBER, RANK, DENSE_RANK
+- [Day 20](days/day20.md) - Window Functions - Aggregate Window Functions
 
 
 ---
