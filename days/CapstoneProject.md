@@ -46,7 +46,7 @@ All data was imported using the supplied SQL dump file.
 I followed the investigation structure given with the capstone.
 Each step had a clear objective and SQL concepts to apply.
 
-###  Step 1 — Identify Crime Scene & Time
+###  Step 1 - Identify Crime Scene & Time
 
 
 - **Objective: Use the evidence table to confirm where the murder happened.**
@@ -66,7 +66,7 @@ SELECT room, description, found_time FROM evidence ORDER BY found_time;
 - This confirmed the crime room and the approximate time window.
 
 
-### Step 2 — Find Who Accessed the Crime Scene
+### Step 2 - Find Who Accessed the Crime Scene
 
 - **Objective: Identify all employees who entered the crime room around the time of the murder.**
 
@@ -85,7 +85,7 @@ WHERE k.room = 'CEO Office' AND k.entry_time BETWEEN '2025-10-15 20:45' AND '202
 - This gave me the first set of suspects.
 
 
-### Step 3 — Verify Alibis
+### Step 3 - Verify Alibis
 
 - **Objective: Check who lied about their whereabouts.**
 
@@ -119,7 +119,7 @@ SELECT * FROM keycard_logs WHERE employee_id = 4 AND DATE(entry_time) = '2025-10
 - This revealed false alibis.
 
 
-### Step 4 — Analyze Suspicious Calls
+### Step 4 - Analyze Suspicious Calls
 
 - **Objective: Check who communicated right before the murder.**
 
@@ -138,7 +138,7 @@ WHERE c.call_time BETWEEN '2025-10-15 20:50' AND '2025-10-15 21:00';
 - This identified suspicious communication patterns.
 
 
-### Step 5 — Match Evidence With Movement
+### Step 5 - Match Evidence With Movement
 
 - **Objective: Link physical evidence with movements & lies.**
 
@@ -148,7 +148,7 @@ WHERE c.call_time BETWEEN '2025-10-15 20:50' AND '2025-10-15 21:00';
 
 This helped narrow down suspects.
 
-### Step 6 — Final Killer Identification
+### Step 6 - Final Killer Identification
 
 - **Objective: Combine all findings into a single SQL query.**
 ```sql
